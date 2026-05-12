@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Note(GK)"
+rootProject.name = "Login_and_Signup"
 include(":app")

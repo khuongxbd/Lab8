@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "21687378762",
-    "project_id": "lab8-ee938",
-    "storage_bucket": "lab8-ee938.firebasestorage.app"
+    "project_number": "262686868891",
+    "project_id": "fix8-8d358",
+    "storage_bucket": "fix8-8d358.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:21687378762:android:ebe914e9fe8043a4cd57b3",
+        "mobilesdk_app_id": "1:262686868891:android:4756361893a9228a268d3e",
         "android_client_info": {
-          "package_name": "com.example.notegk"
+          "package_name": "com.example.login_and_signup"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBgRp8wRIM-W17BzIc7vw_wnLjX7PSZf-c"
+          "current_key": "AIzaSyD7aCZ5qEOSTN_FYKXzWAQ2nT96Ggrw0aE"
         }
       ],
       "services": {

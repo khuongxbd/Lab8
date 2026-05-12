@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Note(GK)</string>
+    <string name="app_name">Login_and_Signup</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_start_screen">StartScreen</string>
 </resources>

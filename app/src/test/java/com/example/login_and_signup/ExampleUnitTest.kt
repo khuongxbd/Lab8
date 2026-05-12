@@ -1,4 +1,4 @@
-package com.example.notegk
+package com.example.login_and_signup
 
 import org.junit.Test
 

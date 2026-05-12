@@ -1,4 +1,4 @@
-package com.example.notegk.ui.theme
+package com.example.login_and_signup.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
